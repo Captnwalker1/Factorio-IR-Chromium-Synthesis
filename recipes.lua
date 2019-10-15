@@ -36,7 +36,7 @@ data:extend({
         name = "chromium-synthesis",
         type = "recipe",
         category = "chemistry",
-        enabled = true,
+        enabled = false,
         energy_required = 12,
         icons = {
 			{ icon = get_icon_path("advanced-cracking-background",DIR.icon_size), icon_size = DIR.icon_size},
